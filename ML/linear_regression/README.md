@@ -1,6 +1,6 @@
 # Linear Regression
 
-## Exercise
+## Exercise 1
 
 Predict canada's per capita income in year 2020. There is an exercise folder here on github at same level as this notebook, download that and you will find canada_per_capita_income.csv file. Using this build a regression model and predict the per capita income for canadian citizens in year 2020
 
@@ -11,3 +11,7 @@ In exercise folder (same level as this notebook on github) there is hiring.csv. 
 - **2 yr experience, 9 test score, 6 interview score**
 
 - **12 yr experience, 10 test score, 10 interview score**
+
+## Exercise 3
+
+Save the model in an external file using joblib/pickle
