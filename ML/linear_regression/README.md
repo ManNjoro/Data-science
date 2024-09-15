@@ -8,9 +8,8 @@ Predict canada's per capita income in year 2020. There is an exercise folder her
 
 In exercise folder (same level as this notebook on github) there is hiring.csv. This file contains hiring statics for a firm such as experience of candidate, his written test score and personal interview score. Based on these 3 factors, HR will decide the salary. Given this data, you need to build a machine learning model for HR department that can help them decide salaries for future candidates. Using this predict salaries for following candidates,
 
-**i. 2 yr experience, 9 test score, 6 interview score**
-
-**ii. 12 yr experience, 10 test score, 10 interview score**
+**1. 2 yr experience, 9 test score, 6 interview score**
+**2. 12 yr experience, 10 test score, 10 interview score**
 
 ## Exercise 3
 
